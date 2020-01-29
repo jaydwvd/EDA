@@ -3,4 +3,6 @@ Exploratory Data Analysis
 
 Univariate Analysis- visualization using Seaborn and Matplotlib
 
-Link for Dataset - https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings
+Dataset Video Game - https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings
+
+Dataset Pokemon : https://www.kaggle.com/abcsds/pokemon
